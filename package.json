@@ -8,7 +8,7 @@
     "react-dom": "^16.13.1",
     "react-https-redirect": "^1.1.0",
     "react-moment": "^0.9.7",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "prestart": "postcss tailwind/index.css -o src/index.css --env development",
